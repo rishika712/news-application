@@ -56,15 +56,15 @@ news-application/
 
 3. Add your News API key:
 
-  (1) Navigate to NewsService.java or relevant API call file.
+    Navigate to NewsService.java or relevant API call file.
 
-  (2) Replace "YOUR_API_KEY" with your actual API key.
+    Replace "YOUR_API_KEY" with your actual API key.
 
 4. Build and Run:
 
- (1) Connect an Android device or use an emulator.
+    Connect an Android device or use an emulator.
 
- (2) Click Run ▶️ from Android Studio.
+    Click Run ▶️ from Android Studio.
 
 📄 License
 This project is licensed under the MIT License.
