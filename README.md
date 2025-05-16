@@ -52,19 +52,19 @@ news-application/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rishika712/news-application.git
-2. Open the project in Android Studio.
+2. **Open the project in Android Studio.**
 
-3. Add your News API key:
+3. **Add your News API key:**
 
     Navigate to NewsService.java or relevant API call file.
 
     Replace "YOUR_API_KEY" with your actual API key.
 
-4. Build and Run:
+4. **Build and Run:**
 
     Connect an Android device or use an emulator.
 
     Click Run ▶️ from Android Studio.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
